@@ -9,7 +9,7 @@ function App() {
           Mr.Soungwut Konak <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Congratulations! 🎉 We've passed the Web Application Development Course
         </p>
         <p>
           <a
