@@ -39,5 +39,4 @@ jobs:
 
             docker rm my-react-app || true
 
-            docker run -d --name my-react-app -p 80:80
-            qwertyswk/ci-cd-pipeline:latest
+            docker run -d --name my-react-app -p 80:80 qwertyswk/ci-cd-pipeline:latest
